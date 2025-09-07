@@ -41,7 +41,7 @@
     "@stdlib/ndarray-base-numel-dimension": "^0.3.2",
     "@stdlib/ndarray-base-offset": "^0.2.2",
     "@stdlib/ndarray-base-stride": "^0.2.2",
-    "@stdlib/stats-base-snanmean": "^0.2.2",
+    "@stdlib/stats-strided-snanmean": "github:stdlib-js/stats-strided-snanmean#main",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
